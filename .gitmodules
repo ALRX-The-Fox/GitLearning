@@ -1,0 +1,3 @@
+[submodule "GitHowTo"]
+	path = GitHowTo
+	url = https://github.com/ALRX-The-Fox/GitHowTo.git
